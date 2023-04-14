@@ -1,5 +1,5 @@
 # Shitty-Obfuscation-Skid
-
+```lua
 local obfuscator = loadstring(game:HttpGet("https://raw.githubusercontent.com/realkosmoss/Shitty-Obfuscation-Skid/main/obfuscator.lua"))()
 
 obfuscator(
@@ -10,3 +10,4 @@ obfuscator(
  "Kosmos_", --// Custom Variable
  "KosmosShit" --// WaterMark
 )
+```
